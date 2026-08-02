@@ -23,7 +23,7 @@ This repository contains the tasks I completed during my **Data Science Internsh
 
 - 💰 **Best Model:** Random Forest (R² = 0.89)
 - 🛠 **Tech:** Scikit-learn, Feature Engineering
-- 📁 [View Code →](./Task3_Car_Price_Prediction/)
+- 📁 [View Code →](./Task3_CarPricePrediction)
 
 ### 4️⃣ Sales Prediction
 > **Goal:** Forecast sales based on advertising and marketing factors
