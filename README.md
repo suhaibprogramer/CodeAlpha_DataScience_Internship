@@ -16,7 +16,7 @@ This repository contains the tasks I completed during my **Data Science Internsh
 
 - 📉 **Key Insight:** COVID-19 caused significant unemployment spike
 - 🛠 **Tech:** Pandas, Seaborn, Matplotlib
-- 📁 [View Code →](./Task2_Unemployment_Analysis/)
+- 📁 [View Code →](./Task2_UnemploymentAnalysis/Task2_UnemploymentAnalysis)
 
 ### 3️⃣ Car Price Prediction
 > **Goal:** Predict car prices using regression models
